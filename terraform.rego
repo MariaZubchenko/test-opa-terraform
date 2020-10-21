@@ -1,4 +1,4 @@
-package terraform.analysis.authz
+package terraform
 
 import input.tfplan as tfplan
 import input as tfplan
